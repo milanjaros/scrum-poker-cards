@@ -18,13 +18,23 @@
    enable-background="new 0 0 167.2 249.4"
    xml:space="preserve"
    sodipodi:docname="planning poker_It's clear as day.svg"
-   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 1.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 4.png"
+   inkscape:export-xdpi="399.93585"
+   inkscape:export-ydpi="399.93585"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><title
+   id="title1821">It's clear as day</title><metadata
    id="metadata143"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>It's clear as day</dc:title><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by/4.0/" /><dc:description>Icon based on:
+https://www.iconfinder.com/icons/2884789/calendar_valentine%27s_day_icon
+https://www.iconfinder.com/icons/1530374/day_sand_sandstorm_sun_weather_icon</dc:description><dc:contributor><cc:Agent><dc:title>https://github.com/redbooth/scrum-poker-cards</dc:title></cc:Agent></dc:contributor><dc:source>https://github.com/milanjaros/scrum-poker-cards</dc:source><dc:creator><cc:Agent><dc:title>Milan Jaroš</dc:title></cc:Agent></dc:creator><dc:date>2019-10-15</dc:date></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by/4.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+         rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata><defs
    id="defs141"><linearGradient
      inkscape:collect="always"
      id="linearGradient5291"><stop
@@ -42,7 +52,49 @@
      y1="148.49115"
      x2="-103.22748"
      y2="148.49115"
-     gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+     gradientUnits="userSpaceOnUse" /><clipPath
+     id="clipPath972"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path970"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath><clipPath
+     id="clipPath990"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path988"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath><clipPath
+     id="clipPath1008"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path1006"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath><clipPath
+     id="clipPath1026"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path1024"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath><clipPath
+     id="clipPath1044"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path1042"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath><clipPath
+     id="clipPath1062"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path1060"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath><clipPath
+     id="clipPath1080"
+     clipPathUnits="userSpaceOnUse"><path
+       style="clip-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path1078"
+       d="M 0,0 H 167.28 V -249.36 H 0 Z" /></clipPath></defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -55,13 +107,15 @@
    inkscape:window-height="1001"
    id="namedview139"
    showgrid="false"
-   inkscape:zoom="2.8284271"
-   inkscape:cx="-32.450312"
-   inkscape:cy="120.67821"
+   inkscape:zoom="2.0933015"
+   inkscape:cx="25.796571"
+   inkscape:cy="103.72712"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer4" />
+   inkscape:current-layer="Layer_1"
+   showguides="true"
+   inkscape:guide-bbox="true" />
 
 
 
@@ -69,51 +123,15 @@
 
 
 <rect
-   x="-5.7"
-   y="-5.7"
-   width="178.6"
-   height="260.8"
+   style="fill:#2bb4a0"
+   x="-5.6999998"
+   y="-5.6999998"
+   width="178.60001"
+   height="260.79999"
    id="rect2"
    inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401"
-   fill="#2BB4A0" /><g
-   style="display:inline"
-   id="g932-1"
-   transform="translate(272.23432,-189.16356)"
-   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401"><circle
-     id="circle80-4-3"
-     r="6.8000002"
-     cy="381.97162"
-     cx="-239.72034"
-     style="opacity:0.2;fill:#1a4e47" /><circle
-     id="circle82-1-6"
-     r="4.1999998"
-     cy="212.9716"
-     cx="-135.72034"
-     style="opacity:0.2;fill:#1a4e47" /><circle
-     id="circle84-9-7"
-     r="5.1999998"
-     cy="240.4716"
-     cx="-133.22034"
-     style="opacity:0.2;fill:#1a4e47" /><circle
-     id="circle86-1-9"
-     r="8.5"
-     cy="400.1716"
-     cx="-227.92033"
-     style="opacity:0.2;fill:#1a4e47" /><circle
-     id="circle88-9-3"
-     r="3.5"
-     cy="410.1716"
-     cx="-248.92033"
-     style="opacity:0.2;fill:#1a4e47" /><circle
-     id="circle90-0-5"
-     r="4.5999999"
-     cy="225.9716"
-     cx="-146.22034"
-     style="opacity:0.2;fill:#1a4e47" /></g><ellipse
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747" /><ellipse
    cx="20.8"
    cy="39.2"
    id="circle66"
@@ -122,35 +140,9 @@
    inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 1.png"
    inkscape:export-xdpi="382.45401"
    inkscape:export-ydpi="382.45401" />
-<g
-   id="g70"
-   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401">
-	<text
-   transform="matrix(1 0 0 1 15.5643 29.7173)"
-   font-size="20"
-   id="text68"
-   font-family="'RobotoSlab-Regular'">5</text>
 
 
 
-</g>
-
-<g
-   id="g76"
-   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401">
-	<text
-   transform="matrix(-1 0 0 -1 151.6725 219.7435)"
-   font-family="'RobotoSlab-Regular'"
-   font-size="20"
-   id="text74">5</text>
-
-
-
-</g>
 
 
 <ellipse
@@ -189,6 +181,42 @@
 
 
 <g
+   style="display:inline"
+   id="g932-1"
+   transform="translate(272.23432,-189.16356)"
+   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747"><circle
+     id="circle80-4-3"
+     r="6.8000002"
+     cy="381.97162"
+     cx="-239.72034"
+     style="opacity:0.2;fill:#1a4e47" /><circle
+     id="circle82-1-6"
+     r="4.1999998"
+     cy="212.9716"
+     cx="-135.72034"
+     style="opacity:0.2;fill:#1a4e47" /><circle
+     id="circle84-9-7"
+     r="5.1999998"
+     cy="240.4716"
+     cx="-133.22034"
+     style="opacity:0.2;fill:#1a4e47" /><circle
+     id="circle86-1-9"
+     r="8.5"
+     cy="400.1716"
+     cx="-227.92033"
+     style="opacity:0.2;fill:#1a4e47" /><circle
+     id="circle88-9-3"
+     r="3.5"
+     cy="410.1716"
+     cx="-248.92033"
+     style="opacity:0.2;fill:#1a4e47" /><circle
+     id="circle90-0-5"
+     r="4.5999999"
+     cy="225.9716"
+     cx="-146.22034"
+     style="opacity:0.2;fill:#1a4e47" /></g><g
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Calendar 1"
@@ -213,6 +241,7 @@
    style="font-size:45.62448883px;font-family:RobotoSlab-Thin;fill:#ba3033;fill-opacity:1;stroke:#000000;stroke-width:1.82410634;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    x="-116.46142"
    y="130.12506">5</text>
+
 
 
 <path
@@ -554,154 +583,190 @@
    inkscape:groupmode="layer"
    id="layer4"
    inkscape:label="Calendar 4"
-   style="display:inline"><g
-     id="g1096"
-     transform="matrix(0.98638943,0,0,0.93076027,1.0666517,11.913814)"
-     inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+   style="display:inline">
+<g
+   style="display:inline"
+   id="g1096"
+   transform="matrix(0.98638943,0,0,0.93076027,1.0666517,11.913814)"
+   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747"><g
+     inkscape:export-ydpi="382.45401"
      inkscape:export-xdpi="382.45401"
-     inkscape:export-ydpi="382.45401"><g
-       inkscape:export-ydpi="382.45401"
-       inkscape:export-xdpi="382.45401"
-       inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 4.png"
-       transform="matrix(0.87535927,0,0,1.0497896,-466.7566,-20.987745)"
-       id="g1197"><path
-         style="display:inline;fill:#000000;stroke-width:1.82658064"
-         d="M 679.08805,62.673092 V 211.41149 h 19.40869 c 4.51227,1e-5 8.17254,-3.65472 8.18261,-8.16699 L 706.55107,70.855705 c -0.01,-4.53664 -3.70231,-8.202828 -8.23891,-8.182613 z"
-         id="path575-0-9-6-9"
-         inkscape:connector-curvature="0" /><path
-         inkscape:connector-curvature="0"
-         id="path575-0-9-62"
-         d="m 580.03112,46.321797 c -9.34732,0 -17.1879,7.056804 -18.1669,16.352714 -4.28717,0.278714 -7.62506,3.833232 -7.63523,8.129439 v 98.81693 h -12.42093 c -0.19911,0.008 -0.3964,0.045 -0.58492,0.10954 -0.18811,-0.0661 -0.38564,-0.10297 -0.58492,-0.10954 -1.00879,0 -1.8267,0.81791 -1.8267,1.82671 0.0316,9.78018 6.28067,18.45638 15.54571,21.58882 -0.0791,0.1786 -0.12296,0.37399 -0.12825,0.56928 v 10.2095 c 0.0101,4.19952 3.41692,7.59771 7.61646,7.59769 h 127.54992 v -9.02715 h 14.23512 V 69.662262 h -4.4166 v -6.987751 h -0.15647 c -1.01884,-9.258825 -8.8397,-16.268259 -18.15439,-16.268259 -9.31472,0 -17.13868,7.009434 -18.15752,16.268259 h -13.9192 c -1.01885,-9.258821 -8.83968,-16.268259 -18.15439,-16.268259 -9.3147,0 -17.13867,7.009438 -18.15752,16.268259 h -14.3195 c -0.97901,-9.29591 -8.81645,-16.352714 -18.16377,-16.352714 z"
-         style="fill:#000000;stroke-width:1.82658064" /><path
-         inkscape:connector-curvature="0"
-         id="path549-0-6-2"
-         d="m 703.69824,183.79656 a 22.850524,22.850524 0 0 1 -19.19911,10.5004 h -121.4849 a 1.6621883,1.6621883 0 0 1 -0.67563,-0.14382 1.6621883,1.6621883 0 0 1 -0.67563,0.14382 22.613068,22.613068 0 0 1 -3.87235,-0.36284 v 9.88107 a 3.9636798,3.9636798 0 0 0 3.96306,3.94429 h 130.84361 v -0.01 h 6.57799 c 2.49469,3e-5 4.5196,-2.01576 4.52921,-4.51043 v -2.33656 h -0.006 z"
-         style="fill:#27a08e;fill-opacity:1;stroke-width:1.82658064" /><path
-         d="m 557.77272,96.594493 h 145.90726 v 74.889797 c -0.0701,9.73434 -7.41515,17.87526 -17.09099,18.9431 -9.67586,1.06784 -18.61932,-5.27547 -20.81056,-14.76023 0.10378,-7.21325 -10.81336,-6.04598 -10.81336,-6.04598 -70.61935,0.0165 -36.56971,0 -97.17408,0 z"
-         id="path557-9-9-5"
-         style="opacity:1;fill:#b8eee5;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccscccc" /><path
-         style="fill:#231815;stroke-width:0.32042503"
-         inkscape:connector-curvature="0"
-         class="cls-2"
-         d="m 611.33281,173.14597 c 0,-0.0448 0,-0.0897 0,-0.13453 -0.003,0.0448 -0.003,0.0897 0,0.13453 z"
-         id="path414-4-3-2" /><path
-         style="fill:#231815;stroke-width:0.32042503"
-         inkscape:connector-curvature="0"
-         class="cls-2"
-         d="m 664.99119,186.20328 a 23.371801,23.371801 0 0 1 -1.37462,2.09879 17.802815,17.802815 0 0 1 2.71399,4.30011 q 0.87157,-1.05099 1.64699,-2.1917 a 19.866351,19.866351 0 0 0 -2.98636,-4.2072 z"
-         id="path458-5-4-9" /><path
-         style="fill:#231815;stroke-width:0.32042503"
-         inkscape:connector-curvature="0"
-         class="cls-2"
-         d="m 664.99119,186.20328 a 19.866351,19.866351 0 0 1 2.98636,4.2072 c 0.32043,-0.46142 0.62482,-0.92924 0.91641,-1.40988 0.18265,-0.30441 0.35887,-0.6088 0.52871,-0.91642 a 21.724817,21.724817 0 0 0 -3.27154,-4.12707 25.227063,25.227063 0 0 1 -1.15994,2.24617 z"
-         id="path462-5-8-7" /><path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.82658064"
-         d="m 656.11675,170.52165 c -1.02186,-0.003 -1.7053,0.0678 -1.7053,0.0678 -59.17268,0.0144 -51.96413,0.003 -81.42196,0 v 20.03531 h 105.22459 c -6.3287,-1.97973 -11.41221,-7.16146 -12.98941,-13.98833 0.0778,-5.40994 -6.04233,-6.10494 -9.10792,-6.11476 z"
-         id="rect634-0-9-1"
-         inkscape:connector-curvature="0" /><path
-         inkscape:connector-curvature="0"
-         id="path565-7-9-7"
-         d="m 565.44567,66.32791 c 0.61896,4.857156 3.62763,9.080855 8.01684,11.251091 0.62506,-1.247043 1.60242,-2.28296 2.81199,-2.97777 8.43682,-4.871412 15.74362,7.78724 7.3068,12.658652 -1.10998,0.643882 -2.3702,0.986178 -3.6534,0.98842 -0.61695,-0.01137 -1.23038,-0.09793 -1.8267,-0.256488 -1.8964,-0.451185 -3.53366,-1.641562 -4.54798,-3.306202 -0.56985,-1.02513 -0.88651,-2.171637 -0.92899,-3.343735 -6.05651,-2.655011 -10.20253,-8.375039 -10.84447,-14.954538 -2.26572,0.273281 -3.97609,2.186309 -3.98808,4.469784 V 92.924535 H 694.08097 V 66.32791 h -27.70078 c 0.64552,5.151723 3.97561,9.57405 8.74877,11.617057 2.01675,-4.551639 7.89614,-5.797709 11.58578,-2.455409 3.68964,3.342302 3.02953,9.314829 -1.30121,11.770325 -1.10724,0.650424 -2.36926,0.993225 -3.6534,0.98842 -0.61711,-0.0091 -1.23082,-0.09575 -1.8267,-0.256488 -2.95128,-0.797638 -5.09436,-3.3488 -5.37062,-6.393449 -6.52767,-2.421731 -11.11016,-8.344036 -11.81725,-15.270456 h -46.43069 c 0.61519,4.853341 3.61904,9.076215 8.0012,11.251091 0.63459,-1.240344 1.60964,-2.273829 2.81199,-2.97777 1.66039,-0.951839 3.62832,-1.212365 5.4801,-0.728803 6.3143,1.645059 7.4696,10.111127 1.82669,13.387455 -1.10793,0.648763 -2.36949,0.991463 -3.65339,0.98842 -0.61712,-0.0091 -1.23082,-0.09575 -1.8267,-0.256488 -3.10883,-0.799071 -5.33238,-3.534166 -5.4801,-6.740647 -6.09044,-2.617169 -10.28561,-8.328715 -10.9602,-14.923258 z m -3.66591,0.05943 c 0.004,-5.22e-4 0.008,-0.0026 0.0125,-0.0032 l -0.0188,-0.03754 c 10e-4,0.01377 0.005,0.02695 0.006,0.04066 z"
-         style="fill:#9a7143;fill-opacity:1;stroke-width:1.82658064" /><path
-         d="M 680.84772,49.888821 A 14.612645,14.612645 0 0 1 695.3325,62.674884 H 666.43599 A 14.612645,14.612645 0 0 1 680.90252,49.907086 Z"
-         id="path571-6-8-5"
-         style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0" /><path
-         d="m 630.61675,49.888821 a 14.612645,14.612645 0 0 1 14.48479,12.786063 h -28.89651 a 14.612645,14.612645 0 0 1 14.46652,-12.767798 z"
-         id="path569-9-3-8"
-         style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0" /><path
-         d="m 579.92914,49.907086 a 14.612645,14.612645 0 0 1 14.46652,12.786065 h -28.93304 a 14.612645,14.612645 0 0 1 14.46652,-12.786065 z"
-         id="path567-9-8-1"
-         style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0" /><path
-         d="m 579.92914,79.132376 a 14.265594,14.265594 0 0 1 -2.95906,-0.310518 3.6531612,3.6531612 0 0 1 1.13248,-1.132498 3.6531612,3.6531612 0 0 1 2.75814,-0.365298 3.6531612,3.6531612 0 0 1 2.22843,1.716986 3.6531612,3.6531612 0 0 1 0.36531,2.758135 3.6531612,3.6531612 0 0 1 -1.69872,2.301492 3.6531612,3.6531612 0 0 1 -4.98656,-1.333404 1.2968722,1.2968722 0 0 1 -0.14612,-0.328784 17.955287,17.955287 0 0 0 3.30611,0.328784 1.8265806,1.8265806 0 0 0 0,-3.65316 z"
-         id="path563-8-9-8"
-         style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0" /><path
-         d="m 630.65329,79.132376 a 14.393455,14.393455 0 0 1 -2.95907,-0.310518 3.8723509,3.8723509 0 0 1 1.13248,-1.041151 3.7627559,3.7627559 0 0 1 2.77641,-0.365317 3.6531612,3.6531612 0 0 1 2.21016,1.716986 3.6531612,3.6531612 0 1 1 -6.31997,3.653162 l -0.0731,-0.347051 a 17.955287,17.955287 0 0 0 3.30611,0.328784 1.8265806,1.8265806 0 0 0 0,-3.65316 z"
-         id="path561-9-4-5"
-         style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0" /><path
-         d="m 680.88425,79.132376 a 13.626291,13.626291 0 0 1 -2.11884,-0.182658 3.8906166,3.8906166 0 0 1 1.20556,-1.169011 3.7810219,3.7810219 0 0 1 2.77639,-0.365317 3.5435664,3.5435664 0 0 1 2.21016,1.716986 3.6531612,3.6531612 0 0 1 -4.1098,5.351881 3.6531612,3.6531612 0 0 1 -2.21017,-1.698719 c 0,0 0,-0.10959 0,-0.164393 a 19.526146,19.526146 0 0 0 2.31976,0.164393 1.826581,1.826581 0 0 0 0,-3.653162 z"
-         id="path559-9-6-1"
-         style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
-         inkscape:connector-curvature="0" /><path
-         inkscape:connector-curvature="0"
-         style="display:inline;fill:#9a7143;fill-opacity:1;stroke-width:1.82658064"
-         d="M 690.61211,66.318525 V 92.91515 h 13.27486 V 70.847739 c 0,-2.501807 -2.0274,-4.529217 -4.52922,-4.529214 z"
-         id="path573-5-4-3-7" /></g><g
-       inkscape:export-ydpi="382.45401"
-       inkscape:export-xdpi="382.45401"
-       inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 4.png"
-       style="opacity:1"
-       id="g1127"
-       transform="matrix(-1.5932992,-0.16176419,0.16176419,-1.5932992,264.11013,343.42476)"><path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.62122498,0.06307162,-0.06307162,-0.62122498,185.73217,196.68619)"
-         id="path1017"
-         d="m 123.12856,80.429044 c -2.27111,6.488535 -1.9626,13.678682 0.99449,20.027986 4.55701,9.57995 14.84367,15.60123 25.43164,14.8457 L 149.2162,80.416154 c -26.10807,0.04022 0,0 -26.08764,0.01289 z"
-         style="fill:#f8b62d;stroke-width:0.32042503" /><g
-         id="g1116"><path
-           id="path448-3-5-9"
-           d="m 86.795065,118.88266 v 6.73267 c 0,1.93477 3.00119,1.93276 3.00119,0 v -6.73267 c 0,-1.93477 -3.00119,-1.93077 -3.00119,0 z"
-           class="cls-2"
-           inkscape:connector-curvature="0"
-           style="fill:#231815;stroke-width:0.20007934" /><path
-           id="path454-2-6-7"
-           d="m 99.490098,128.20636 c -0.968384,1.67666 1.626642,3.18526 2.601032,1.5146 l 3.36733,-5.83232 c 0.95638,-1.67666 -1.64465,-3.18926 -2.60103,-1.5146 z"
-           class="cls-2"
-           inkscape:connector-curvature="0"
-           style="fill:#231815;stroke-width:0.20007934" /><path
-           sodipodi:nodetypes="ccccccc"
-           inkscape:connector-curvature="0"
-           id="path460-3-0-3"
-           d="m 85.565432,134.45867 c 6.525529,-1.13025 13.289085,1.98945 16.721778,7.65515 2.23515,3.74975 2.8843,8.18741 1.8926,12.35544 l 3.1344,-0.32796 c 0.99601,-5.53201 -0.44408,-11.40431 -4.10064,-15.87701 -4.265786,-5.21244 -11.193751,-7.77541 -17.7724,-6.81968 0.111561,3.0453 0,0 0.124262,3.01406 z"
-           style="fill:#231815;stroke-width:0.20007934" /><path
-           id="path466-7-9-0"
-           d="m 109.17194,136.81177 c -1.67467,0.96638 -0.16007,3.55741 1.5146,2.59102 l 5.83231,-3.36733 c 1.67266,-0.96638 0.16006,-3.55941 -1.5146,-2.60103 z"
-           class="cls-2"
-           inkscape:connector-curvature="0"
-           style="fill:#231815;stroke-width:0.20007934" /><path
-           id="path470-3-3-3"
-           d="m 113.27556,149.09664 c -1.93276,0 -1.93076,3.00119 0,3.00119 h 6.73467 c 1.93477,0 1.93077,-3.00119 0,-3.00119 z"
-           class="cls-2"
-           inkscape:connector-curvature="0"
-           style="fill:#231815;stroke-width:0.20007934" /></g></g></g><text
-     y="173.78195"
-     x="49.149891"
-     style="font-size:106.81829834px;font-family:RobotoSlab-Thin;stroke-width:0.76298785"
-     font-size="140"
-     id="text78"
-     inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+     inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 4.png"
+     transform="matrix(0.87535927,0,0,1.0497896,-466.7566,-20.987745)"
+     id="g1197"><path
+       style="display:inline;fill:#000000;stroke-width:1.82658064"
+       d="M 679.08805,62.673092 V 211.41149 h 19.40869 c 4.51227,1e-5 8.17254,-3.65472 8.18261,-8.16699 L 706.55107,70.855705 c -0.01,-4.53664 -3.70231,-8.202828 -8.23891,-8.182613 z"
+       id="path575-0-9-6-9"
+       inkscape:connector-curvature="0" /><path
+       inkscape:connector-curvature="0"
+       id="path575-0-9-62"
+       d="m 580.03112,46.321797 c -9.34732,0 -17.1879,7.056804 -18.1669,16.352714 -4.28717,0.278714 -7.62506,3.833232 -7.63523,8.129439 v 98.81693 h -12.42093 c -0.19911,0.008 -0.3964,0.045 -0.58492,0.10954 -0.18811,-0.0661 -0.38564,-0.10297 -0.58492,-0.10954 -1.00879,0 -1.8267,0.81791 -1.8267,1.82671 0.0316,9.78018 6.28067,18.45638 15.54571,21.58882 -0.0791,0.1786 -0.12296,0.37399 -0.12825,0.56928 v 10.2095 c 0.0101,4.19952 3.41692,7.59771 7.61646,7.59769 h 127.54992 v -9.02715 h 14.23512 V 69.662262 h -4.4166 v -6.987751 h -0.15647 c -1.01884,-9.258825 -8.8397,-16.268259 -18.15439,-16.268259 -9.31472,0 -17.13868,7.009434 -18.15752,16.268259 h -13.9192 c -1.01885,-9.258821 -8.83968,-16.268259 -18.15439,-16.268259 -9.3147,0 -17.13867,7.009438 -18.15752,16.268259 h -14.3195 c -0.97901,-9.29591 -8.81645,-16.352714 -18.16377,-16.352714 z"
+       style="fill:#000000;stroke-width:1.82658064" /><path
+       inkscape:connector-curvature="0"
+       id="path549-0-6-2"
+       d="m 703.69824,183.79656 a 22.850524,22.850524 0 0 1 -19.19911,10.5004 h -121.4849 a 1.6621883,1.6621883 0 0 1 -0.67563,-0.14382 1.6621883,1.6621883 0 0 1 -0.67563,0.14382 22.613068,22.613068 0 0 1 -3.87235,-0.36284 v 9.88107 a 3.9636798,3.9636798 0 0 0 3.96306,3.94429 h 130.84361 v -0.01 h 6.57799 c 2.49469,3e-5 4.5196,-2.01576 4.52921,-4.51043 v -2.33656 h -0.006 z"
+       style="fill:#27a08e;fill-opacity:1;stroke-width:1.82658064" /><path
+       d="m 557.77272,96.594493 h 145.90726 v 74.889797 c -0.0701,9.73434 -7.41515,17.87526 -17.09099,18.9431 -9.67586,1.06784 -18.61932,-5.27547 -20.81056,-14.76023 0.10378,-7.21325 -10.81336,-6.04598 -10.81336,-6.04598 -70.61935,0.0165 -36.56971,0 -97.17408,0 z"
+       id="path557-9-9-5"
+       style="opacity:1;fill:#b8eee5;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscccc" /><path
+       style="fill:#231815;stroke-width:0.32042503"
+       inkscape:connector-curvature="0"
+       class="cls-2"
+       d="m 611.33281,173.14597 c 0,-0.0448 0,-0.0897 0,-0.13453 -0.003,0.0448 -0.003,0.0897 0,0.13453 z"
+       id="path414-4-3-2" /><path
+       style="fill:#231815;stroke-width:0.32042503"
+       inkscape:connector-curvature="0"
+       class="cls-2"
+       d="m 664.99119,186.20328 a 23.371801,23.371801 0 0 1 -1.37462,2.09879 17.802815,17.802815 0 0 1 2.71399,4.30011 q 0.87157,-1.05099 1.64699,-2.1917 a 19.866351,19.866351 0 0 0 -2.98636,-4.2072 z"
+       id="path458-5-4-9" /><path
+       style="fill:#231815;stroke-width:0.32042503"
+       inkscape:connector-curvature="0"
+       class="cls-2"
+       d="m 664.99119,186.20328 a 19.866351,19.866351 0 0 1 2.98636,4.2072 c 0.32043,-0.46142 0.62482,-0.92924 0.91641,-1.40988 0.18265,-0.30441 0.35887,-0.6088 0.52871,-0.91642 a 21.724817,21.724817 0 0 0 -3.27154,-4.12707 25.227063,25.227063 0 0 1 -1.15994,2.24617 z"
+       id="path462-5-8-7" /><path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.82658064"
+       d="m 656.11675,170.52165 c -1.02186,-0.003 -1.7053,0.0678 -1.7053,0.0678 -59.17268,0.0144 -51.96413,0.003 -81.42196,0 v 20.03531 h 105.22459 c -6.3287,-1.97973 -11.41221,-7.16146 -12.98941,-13.98833 0.0778,-5.40994 -6.04233,-6.10494 -9.10792,-6.11476 z"
+       id="rect634-0-9-1"
+       inkscape:connector-curvature="0" /><path
+       inkscape:connector-curvature="0"
+       id="path565-7-9-7"
+       d="m 565.44567,66.32791 c 0.61896,4.857156 3.62763,9.080855 8.01684,11.251091 0.62506,-1.247043 1.60242,-2.28296 2.81199,-2.97777 8.43682,-4.871412 15.74362,7.78724 7.3068,12.658652 -1.10998,0.643882 -2.3702,0.986178 -3.6534,0.98842 -0.61695,-0.01137 -1.23038,-0.09793 -1.8267,-0.256488 -1.8964,-0.451185 -3.53366,-1.641562 -4.54798,-3.306202 -0.56985,-1.02513 -0.88651,-2.171637 -0.92899,-3.343735 -6.05651,-2.655011 -10.20253,-8.375039 -10.84447,-14.954538 -2.26572,0.273281 -3.97609,2.186309 -3.98808,4.469784 V 92.924535 H 694.08097 V 66.32791 h -27.70078 c 0.64552,5.151723 3.97561,9.57405 8.74877,11.617057 2.01675,-4.551639 7.89614,-5.797709 11.58578,-2.455409 3.68964,3.342302 3.02953,9.314829 -1.30121,11.770325 -1.10724,0.650424 -2.36926,0.993225 -3.6534,0.98842 -0.61711,-0.0091 -1.23082,-0.09575 -1.8267,-0.256488 -2.95128,-0.797638 -5.09436,-3.3488 -5.37062,-6.393449 -6.52767,-2.421731 -11.11016,-8.344036 -11.81725,-15.270456 h -46.43069 c 0.61519,4.853341 3.61904,9.076215 8.0012,11.251091 0.63459,-1.240344 1.60964,-2.273829 2.81199,-2.97777 1.66039,-0.951839 3.62832,-1.212365 5.4801,-0.728803 6.3143,1.645059 7.4696,10.111127 1.82669,13.387455 -1.10793,0.648763 -2.36949,0.991463 -3.65339,0.98842 -0.61712,-0.0091 -1.23082,-0.09575 -1.8267,-0.256488 -3.10883,-0.799071 -5.33238,-3.534166 -5.4801,-6.740647 -6.09044,-2.617169 -10.28561,-8.328715 -10.9602,-14.923258 z m -3.66591,0.05943 c 0.004,-5.22e-4 0.008,-0.0026 0.0125,-0.0032 l -0.0188,-0.03754 c 10e-4,0.01377 0.005,0.02695 0.006,0.04066 z"
+       style="fill:#9a7143;fill-opacity:1;stroke-width:1.82658064" /><path
+       d="M 680.84772,49.888821 A 14.612645,14.612645 0 0 1 695.3325,62.674884 H 666.43599 A 14.612645,14.612645 0 0 1 680.90252,49.907086 Z"
+       id="path571-6-8-5"
+       style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0" /><path
+       d="m 630.61675,49.888821 a 14.612645,14.612645 0 0 1 14.48479,12.786063 h -28.89651 a 14.612645,14.612645 0 0 1 14.46652,-12.767798 z"
+       id="path569-9-3-8"
+       style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0" /><path
+       d="m 579.92914,49.907086 a 14.612645,14.612645 0 0 1 14.46652,12.786065 h -28.93304 a 14.612645,14.612645 0 0 1 14.46652,-12.786065 z"
+       id="path567-9-8-1"
+       style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0" /><path
+       d="m 579.92914,79.132376 a 14.265594,14.265594 0 0 1 -2.95906,-0.310518 3.6531612,3.6531612 0 0 1 1.13248,-1.132498 3.6531612,3.6531612 0 0 1 2.75814,-0.365298 3.6531612,3.6531612 0 0 1 2.22843,1.716986 3.6531612,3.6531612 0 0 1 0.36531,2.758135 3.6531612,3.6531612 0 0 1 -1.69872,2.301492 3.6531612,3.6531612 0 0 1 -4.98656,-1.333404 1.2968722,1.2968722 0 0 1 -0.14612,-0.328784 17.955287,17.955287 0 0 0 3.30611,0.328784 1.8265806,1.8265806 0 0 0 0,-3.65316 z"
+       id="path563-8-9-8"
+       style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0" /><path
+       d="m 630.65329,79.132376 a 14.393455,14.393455 0 0 1 -2.95907,-0.310518 3.8723509,3.8723509 0 0 1 1.13248,-1.041151 3.7627559,3.7627559 0 0 1 2.77641,-0.365317 3.6531612,3.6531612 0 0 1 2.21016,1.716986 3.6531612,3.6531612 0 1 1 -6.31997,3.653162 l -0.0731,-0.347051 a 17.955287,17.955287 0 0 0 3.30611,0.328784 1.8265806,1.8265806 0 0 0 0,-3.65316 z"
+       id="path561-9-4-5"
+       style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0" /><path
+       d="m 680.88425,79.132376 a 13.626291,13.626291 0 0 1 -2.11884,-0.182658 3.8906166,3.8906166 0 0 1 1.20556,-1.169011 3.7810219,3.7810219 0 0 1 2.77639,-0.365317 3.5435664,3.5435664 0 0 1 2.21016,1.716986 3.6531612,3.6531612 0 0 1 -4.1098,5.351881 3.6531612,3.6531612 0 0 1 -2.21017,-1.698719 c 0,0 0,-0.10959 0,-0.164393 a 19.526146,19.526146 0 0 0 2.31976,0.164393 1.826581,1.826581 0 0 0 0,-3.653162 z"
+       id="path559-9-6-1"
+       style="fill:#2bb4a0;fill-opacity:1;stroke-width:1.82658064"
+       inkscape:connector-curvature="0" /><path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#9a7143;fill-opacity:1;stroke-width:1.82658064"
+       d="M 690.61211,66.318525 V 92.91515 h 13.27486 V 70.847739 c 0,-2.501807 -2.0274,-4.529217 -4.52922,-4.529214 z"
+       id="path573-5-4-3-7" /></g><g
+     inkscape:export-ydpi="382.45401"
      inkscape:export-xdpi="382.45401"
-     inkscape:export-ydpi="382.45401">5</text>
+     inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 4.png"
+     style="opacity:1"
+     id="g1127"
+     transform="matrix(-1.5932992,-0.16176419,0.16176419,-1.5932992,264.11013,343.42476)"><path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       transform="matrix(-0.62122498,0.06307162,-0.06307162,-0.62122498,185.73217,196.68619)"
+       id="path1017"
+       d="m 123.12856,80.429044 c -2.27111,6.488535 -1.9626,13.678682 0.99449,20.027986 4.55701,9.57995 14.84367,15.60123 25.43164,14.8457 L 149.2162,80.416154 c -26.10807,0.04022 0,0 -26.08764,0.01289 z"
+       style="fill:#f8b62d;stroke-width:0.32042503" /><g
+       id="g1116"><path
+         id="path448-3-5-9"
+         d="m 86.795065,118.88266 v 6.73267 c 0,1.93477 3.00119,1.93276 3.00119,0 v -6.73267 c 0,-1.93477 -3.00119,-1.93077 -3.00119,0 z"
+         class="cls-2"
+         inkscape:connector-curvature="0"
+         style="fill:#231815;stroke-width:0.20007934" /><path
+         id="path454-2-6-7"
+         d="m 99.490098,128.20636 c -0.968384,1.67666 1.626642,3.18526 2.601032,1.5146 l 3.36733,-5.83232 c 0.95638,-1.67666 -1.64465,-3.18926 -2.60103,-1.5146 z"
+         class="cls-2"
+         inkscape:connector-curvature="0"
+         style="fill:#231815;stroke-width:0.20007934" /><path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path460-3-0-3"
+         d="m 85.565432,134.45867 c 6.525529,-1.13025 13.289085,1.98945 16.721778,7.65515 2.23515,3.74975 2.8843,8.18741 1.8926,12.35544 l 3.1344,-0.32796 c 0.99601,-5.53201 -0.44408,-11.40431 -4.10064,-15.87701 -4.265786,-5.21244 -11.193751,-7.77541 -17.7724,-6.81968 0.111561,3.0453 0,0 0.124262,3.01406 z"
+         style="fill:#231815;stroke-width:0.20007934" /><path
+         id="path466-7-9-0"
+         d="m 109.17194,136.81177 c -1.67467,0.96638 -0.16007,3.55741 1.5146,2.59102 l 5.83231,-3.36733 c 1.67266,-0.96638 0.16006,-3.55941 -1.5146,-2.60103 z"
+         class="cls-2"
+         inkscape:connector-curvature="0"
+         style="fill:#231815;stroke-width:0.20007934" /><path
+         id="path470-3-3-3"
+         d="m 113.27556,149.09664 c -1.93276,0 -1.93076,3.00119 0,3.00119 h 6.73467 c 1.93477,0 1.93077,-3.00119 0,-3.00119 z"
+         class="cls-2"
+         inkscape:connector-curvature="0"
+         style="fill:#231815;stroke-width:0.20007934" /></g></g></g><text
+   y="173.78195"
+   x="49.149891"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:106.81829834px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';display:inline;stroke-width:0.76298785"
+   font-size="140"
+   id="text78"
+   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747"><tspan
+     id="tspan1650"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab weight=255'">5</tspan></text>
 </g>
-<circle
+<g
+   id="g70"
+   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747">
+	<text
+   style="font-size:20px;font-family:RobotoSlab-Regular"
+   transform="translate(15.5643,29.7173)"
+   font-size="20"
+   id="text68"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+     id="tspan944">5</tspan></text>
+
+
+
+
+</g><g
+   id="g76"
+   inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747">
+	<text
+   style="font-size:20px;font-family:RobotoSlab-Regular"
+   transform="rotate(180,75.83625,109.87175)"
+   font-size="20"
+   id="text74"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+     id="tspan946">5</tspan></text>
+
+
+
+
+</g><circle
    style="fill:#ba3033"
    cx="20.800014"
    cy="39.199997"
    r="2.5999999"
    id="circle66-8"
    inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401" /><circle
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747" /><circle
    style="fill:#ba3033"
    cx="146.40001"
    cy="210.3"
    r="2.5999999"
    id="circle72-2"
    inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401" /><circle
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747" /><circle
    style="opacity:0.2;fill:#1a4e47"
    cx="138.96255"
    cy="51.089333"
    r="5.1999998"
    id="circle84-3"
    inkscape:export-filename="C:\Projects\Sandbox\scrum-poker-cards\png\planning poker_It's clear as day 5.png"
-   inkscape:export-xdpi="382.45401"
-   inkscape:export-ydpi="382.45401" /></svg>
+   inkscape:export-xdpi="383.24747"
+   inkscape:export-ydpi="383.24747" /></svg>
